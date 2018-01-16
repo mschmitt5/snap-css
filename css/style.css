@@ -1,7 +1,7 @@
 .bold-underlined-red {
     color: red;
     text-decoration: underline;
-    text-decoration: red;
+    font-weight: bold;
 }
 
 
