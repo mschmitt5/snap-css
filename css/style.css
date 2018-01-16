@@ -1,3 +1,9 @@
 .bold-underlined-red {
     text-emphasis: red;
+    text-underline: red;
+}
+
+
+.highlighted-yellow {
+    background-color: yellow;
 }
